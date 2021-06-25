@@ -16,6 +16,7 @@ here are some public examples of my work that you can view:
 * [Sorcery v1 Rework](https://github.com/sorcery/sorcery-rework)
 * [Sorcery Argon2 Wrapper](https://github.com/sorcery/argon2)
 * [Validator Matchers](https://github.com/athix/validator-matchers)
+* [RuboCop Athix](https://github.com/athix/rubocop-athix)
 
 ## Microcontroller Projects
 
