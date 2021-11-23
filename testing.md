@@ -38,9 +38,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <hr>
 
 <details>
-  <summary>Projects</summary><br><blockquote>
+  <summary>Projects</summary><br><blockquote style="padding: 0;">
 
   <hr>
+
+  <div style="padding: 0 1em">
 
   ### Ruby Gems
 
@@ -49,7 +51,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   * [Validator Matchers](https://github.com/athix/validator-matchers)
   * [RuboCop Athix](https://github.com/athix/rubocop-athix)
 
+  </div>
+
   <hr>
+
+  <div style="padding: 0 1em">
 
   ### Other Projects
 
@@ -57,6 +63,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   * [MCU PPM Input](https://github.com/athix/mcu-ppm-input)
   * [Shift Register Chasing Lights](https://github.com/athix/shift-register-stuff)
   * [Knight's Tour](https://github.com/athix/knights-torus)
+
+  </div>
 
   <hr>
 </blockquote></details>
