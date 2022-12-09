@@ -1,5 +1,5 @@
 # 👨‍💻 📈
-<a rel="nofollow me" href="https://ruby.social/@joshbuker"></a><a rel="nofollow me" href="https://infosec.exchange/@joshbuker"></a>
+
 Hello world! I currently maintain the open source ruby gem Sorcery and work
 on various other projects, most of which I try to open source as well.
 
