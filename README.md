@@ -1,7 +1,6 @@
 # 👨‍💻 📈
 
-Hello world! I currently maintain the open source ruby gem Sorcery and work
-on various other projects, most of which I try to open source as well.
+Hello world! I work on various projects, most of which I try to open source as well.
 
 If you need to reach out to me, please either create an issue on the appropriate
 project repository or message me on Mastodon.
